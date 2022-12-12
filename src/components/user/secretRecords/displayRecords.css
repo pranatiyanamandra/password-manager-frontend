@@ -1,0 +1,18 @@
+
+.raised-segment{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    transition: transform .2s; /* Animation */
+
+}
+
+.raised-segment:hover{
+    transform: scale(1.04)
+}
+
+.edit-icon:hover{
+    transform: scale(1.2);
+  }
+.edit-icon{
+    float: right;
+    margin-left: 2%;
+}

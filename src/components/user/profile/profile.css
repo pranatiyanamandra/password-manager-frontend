@@ -1,0 +1,6 @@
+.edit-icon:hover{
+    transform: scale(1.2);
+  }
+.edit-icon{
+    float: right;
+}
